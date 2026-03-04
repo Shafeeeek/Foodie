@@ -307,10 +307,11 @@ See [`LICENSE`](LICENSE) for full details.
 
 | | |
 |--|--|
-| 🐙 GitHub | [@yourusername](https://github.com/yourusername) |
-| 💼 LinkedIn | [Your Name](https://linkedin.com) |
-| 🐦 Twitter / X | [@yourhandle](https://twitter.com) |
-| 📧 Email | your@email.com |
+| 🐙 GitHub | [@yourusername](https://github.com/Shafeeeek) |
+| 💼 LinkedIn | [Mohamed A Shafeek](https://www.linkedin.com/in/mohamed-a-shafeek-/) |
+| 📧 Email | mohmedshii02@gmail.com |
+| website app | [](https://claude.ai/public/artifacts/57bd40dc-1da9-40a2-9fac-eb602233ccc5) |
+
 
 <br/>
 
