@@ -30,18 +30,18 @@
 
 <br/>
 
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 32" src="https://github.com/user-attachments/assets/5b5fa1df-ff12-4590-a34a-f49245ae4a2b" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 35" src="https://github.com/user-attachments/assets/b28f48ef-eb70-449e-a4cf-a2686914b680" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 39" src="https://github.com/user-attachments/assets/16fae490-e59c-4d21-8f93-09cc5e3c5c18" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 42" src="https://github.com/user-attachments/assets/80530b3e-d72c-4de5-8240-a8f9e5738e24" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 46" src="https://github.com/user-attachments/assets/b8df0bc5-34f6-4b75-9b25-8e0ab860d609" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 25" src="https://github.com/user-attachments/assets/ce113c41-ff51-4737-912a-7dbda185c170" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 29" src="https://github.com/user-attachments/assets/c4ac5ee1-3983-4d2e-8ae0-10730279c2d7" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 31" src="https://github.com/user-attachments/assets/d7448951-ee5d-44ea-8eaa-9c064594831b" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 35" src="https://github.com/user-attachments/assets/5b2550cc-3b22-4a0b-b721-f665d3acaca0" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 42" src="https://github.com/user-attachments/assets/bbaed05e-4688-4eda-b2f4-6643c5b93103" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 21" src="https://github.com/user-attachments/assets/208bba51-1512-4ee5-8831-72a4b528e25d" />
-<img width="600" height="600" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 29" src="https://github.com/user-attachments/assets/5749eb86-d530-4483-ad61-0feee117465c" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 32" src="https://github.com/user-attachments/assets/5b5fa1df-ff12-4590-a34a-f49245ae4a2b" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 35" src="https://github.com/user-attachments/assets/b28f48ef-eb70-449e-a4cf-a2686914b680" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 39" src="https://github.com/user-attachments/assets/16fae490-e59c-4d21-8f93-09cc5e3c5c18" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 42" src="https://github.com/user-attachments/assets/80530b3e-d72c-4de5-8240-a8f9e5738e24" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 46" src="https://github.com/user-attachments/assets/b8df0bc5-34f6-4b75-9b25-8e0ab860d609" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 25" src="https://github.com/user-attachments/assets/ce113c41-ff51-4737-912a-7dbda185c170" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 29" src="https://github.com/user-attachments/assets/c4ac5ee1-3983-4d2e-8ae0-10730279c2d7" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 31" src="https://github.com/user-attachments/assets/d7448951-ee5d-44ea-8eaa-9c064594831b" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 35" src="https://github.com/user-attachments/assets/5b2550cc-3b22-4a0b-b721-f665d3acaca0" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 11 45 42" src="https://github.com/user-attachments/assets/bbaed05e-4688-4eda-b2f4-6643c5b93103" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 21" src="https://github.com/user-attachments/assets/208bba51-1512-4ee5-8831-72a4b528e25d" />
+<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 29" src="https://github.com/user-attachments/assets/5749eb86-d530-4483-ad61-0feee117465c" />
 
 
 
