@@ -31,7 +31,6 @@
 <br/>
 
 <img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 32" src="https://github.com/user-attachments/assets/5b5fa1df-ff12-4590-a34a-f49245ae4a2b" />
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 35" src="https://github.com/user-attachments/assets/b28f48ef-eb70-449e-a4cf-a2686914b680" />
 <img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 39" src="https://github.com/user-attachments/assets/16fae490-e59c-4d21-8f93-09cc5e3c5c18" />
 <img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 42" src="https://github.com/user-attachments/assets/80530b3e-d72c-4de5-8240-a8f9e5738e24" />
 <img width="300" height="500" alt="Simulator Screenshot - iPhone 16e - 2026-03-04 at 03 46 46" src="https://github.com/user-attachments/assets/b8df0bc5-34f6-4b75-9b25-8e0ab860d609" />
